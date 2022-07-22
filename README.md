@@ -1,7 +1,7 @@
 # ros-server-typescript
 
 ## Overview 
-This is a repository of bms-typescript-server.
+This is a repository of ros-typescript-server.
 
 ## Installation 
 _ROS Server_ requires [Node.js](https://nodejs.org/) v16.14+ to run and [express.js](https://expressjs.com/) to run.
@@ -36,7 +36,7 @@ The software will listen on port 3001 by default, which can be run by execute
    ```
    
 ## Dependencies
-_SmartBMS Server_ uses a number of open source projects to work properly:
+_ROS Server_ uses a number of open source projects to work properly:
 
 - [node.js] - Asynchronous event-driven JavaScript runtime environment, suitable for non-blocking I/O needed application.
 - [express] - Node.js web application framework, serving RESTful API.
