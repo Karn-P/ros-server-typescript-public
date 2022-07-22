@@ -1,7 +1,7 @@
-# ros-server-typescript
+# ros-server-typescript-public
 
 ## Overview 
-This is a repository of ros-typescript-server.
+This is a public repository of ros-typescript-server.
 
 ## Installation 
 _ROS Server_ requires [Node.js](https://nodejs.org/) v16.14+ to run and [express.js](https://expressjs.com/) to run.
@@ -9,8 +9,8 @@ _ROS Server_ requires [Node.js](https://nodejs.org/) v16.14+ to run and [express
 Clone the repository and install the dependencies
 
 ```sh
-git clone https://github.com/Karn-P/ros-server-typescript.git
-cd ros-server-typescript
+git clone https://github.com/Karn-P/ros-server-typescript-public.git
+cd ros-server-typescript-public
 ```
 ```sh
 npm install
